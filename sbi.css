@@ -8,7 +8,7 @@
   
   }
   
-  .icon {
+  .searchdiv {
   
     float: right;
   
@@ -48,7 +48,22 @@
   
   }
   
- 
+  .searchdiv{
+    /* display: flex; */
+    border: 3px solid black;
+    border-radius: 5px;
+  }
+  .searchdiv button i {
+    color: rgb(40, 116, 240);
+    height: 30px;
+    font-size: 25px;
+    background-color: white;
+  }
+  
+  .searchdiv button {
+    background-color: white;
+    border: none;
+  }
   
   .top {
     text-align: center;
