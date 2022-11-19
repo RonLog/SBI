@@ -94,6 +94,14 @@ input[type="button"] {
 
 }
 
+.leftnav img {
+  vertical-align: middle;
+}
+
+.rightnav img {
+  vertical-align: middle;
+}
+
 .right {
   border-style: solid;
   width: 50%;
